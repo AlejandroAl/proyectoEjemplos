@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="kite-data-core-0.17.0">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/kite-data-core-0.17.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

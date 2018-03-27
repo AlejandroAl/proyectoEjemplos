@@ -37,7 +37,9 @@ public class TestSchema {
             GenericRecord datum = reader.read(null, decoder);
             datum.getSchema();
 
-            File archivoAvro = File.createTempFile("test", ".avro");
+            //File archivoAvro = File.createTempFile("test", ".avro");
+
+            File archivoAvro = new File("/home/alejandro/Documents/ejemploAvro.avro");
 
             System.out.println("Ruta absoluta: "+archivoAvro.getAbsolutePath());
 

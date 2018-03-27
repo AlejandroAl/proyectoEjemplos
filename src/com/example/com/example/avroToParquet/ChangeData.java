@@ -31,8 +31,8 @@ public class ChangeData {
 
         Schema schema = null;
 
-        String inputFile = "/home/alejandro/Documents/test7862807779768204861.avro";
-        String outputFile = "/home/alejandro/Documents/test7862807779768204861.parquet";
+        String inputFile = "/home/alejandro/Documents/ejemploAvro.avro";
+        String outputFile = "/home/alejandro/Documents/ejemploAvro.parquet";
 
         HelpFormatter formatter = new HelpFormatter();
         // create Options object
